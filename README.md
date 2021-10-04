@@ -17,3 +17,7 @@ The <a href="https://reactjs.org/docs/react-component.html#componentdidupdate">c
 
 It is good practice to use the <a href="https://reactjs.org/docs/react-component.html#shouldcomponentupdate">shouldComponentUpdate</a> lifecycle method which returns a boolean value to specify whether the component should be rerendered.<br>
 For example, the component need not be rerendered when the parent element gets updated, if the props passed to the component remains the same.
+
+#### Unmounting
+The process of removing a component from the DOM is called unmounting.<br>
+The <a href="https://reactjs.org/docs/react-component.html#componentwillunmount">componentWillUnmount()</a> is called just before the component is unmounted.
