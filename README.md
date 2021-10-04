@@ -1,3 +1,8 @@
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
 ## Lifecycle Methods
 <a href="https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/">Lifecycle Methods Diagram</a>
 <img src="images/lifecycle-methods.jpg" alt="Lifecycle Methods diagram">
