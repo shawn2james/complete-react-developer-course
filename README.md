@@ -1,11 +1,26 @@
 # Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)
 [Udemy course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)<br><br>
 
-## Table of Contents
+# Table of Contents
+* [Key React Concepts](#react-concepts)
+* [The job of a React developer](#job-of-react-developer)
 * [Lifecycle Methods](#lifecycle-methods)
     * [Mounting](#mounting)
     * [Updating](#updating)
     * [Unmounting](#unmounting)
+
+## Key React Concepts
+<a name="react-concepts"></a>
+1. Don't touch the DOM. I'll do it
+2. Build websites like lego blocks
+3. Unidirectional data flow (data i.e. state, props always moves to the lower components)
+4. UI, the rest is up to you
+
+## The job of a React developer
+<a href="job-of-react-developer"></a>
+1. Decide on components
+2. Decide the state and where it lives
+3. What changes when state changes
 
 ## Lifecycle Methods
 <a name="lifecycle-methods"></a>
