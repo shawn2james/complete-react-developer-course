@@ -2,6 +2,7 @@
 [Udemy course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)<br><br>
 
 # Table of Contents
+* [Two parts of Web development](#frontend-and-backend)
 * [Key React Concepts](#react-concepts)
 * [The job of a React developer](#job-of-react-developer)
 * [Lifecycle Methods](#lifecycle-methods)
@@ -9,6 +10,11 @@
     * [Updating](#updating)
     * [Unmounting](#unmounting)
 * [Important commands](#commands)
+
+<a name="frontend-and-backend"></a>
+
+## Two parts of Web development
+<img src="images/frontend-and-backend.png" style="width: 50%;">
 
 <a name="react-concepts"></a>
 
@@ -59,6 +65,7 @@ The <a href="https://reactjs.org/docs/react-component.html#componentwillunmount"
 <a name="commands"></a>
 
 ## Important commands
+
 ### Install dependencies from package.json file
 `npm install`
 ### Updating node dependencies
