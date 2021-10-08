@@ -15,6 +15,8 @@
 
 ## Two parts of Web development
 <img src="images/frontend-and-backend.png" style="width: 50%;">
+Notes: 
+* The database stores data for our site & the server contains the code which specifies how to request for the data from the database
 
 <a name="react-concepts"></a>
 
@@ -77,3 +79,16 @@ The <a href="https://reactjs.org/docs/react-component.html#componentwillunmount"
 ### automatically upgrade / fix vulnerabilities in npm packages
 `npm audit fix`<br>
 `npm audit fix --force`
+
+## Firebase
+
+### Queries
+<img src="images/queries.png" style="width: 35%;">
+<br>
+
+**QueryReference:**<br>
+<img src="images/query-reference.png" style="width: 35%;">
+<br>
+
+**DocumentReference vs CollectionReference:**<br>
+<img src="images/document-collection-reference.png" style="width: 35%;">
